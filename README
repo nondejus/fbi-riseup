@@ -42,3 +42,5 @@ So yes, criminals could in theory use mixmaster, but they already have better op
 Q: How does Mixmaster / Anonymous remailers work?
 
 A: Anonymous remailers work by connecting to other anonymous remailers in a chain, and every one in that chain removes the mail header information making it impossible to find the real sender. The Tor project maintains a list of typical users of this and other anonymity systems, and the Mixmaster home page.
+
+https://github.com/merkinmuffley/mixmaster4096
